@@ -2,9 +2,7 @@
 
 **.: Property filter Listing app with google maps and VueJS :.**
 
-[Live Demo ⚡️](https://h4ybh.codesandbox.io/)
-
-[Online Source Demo](https://codesandbox.io/s/buyavue-h4ybh)
+[Live Demo ⚡️](https://stannesi.github.io/buyAvue/)
 
 # Preview
 
