@@ -132,7 +132,7 @@ export default {
   },
 
   watch: {
-    markers(newVal, oldVal) {
+    markers() {
       // if (!this.data.maps) return;
       if (this.map === null) return;
 

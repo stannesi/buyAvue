@@ -25,7 +25,6 @@
 </template>
 
 <script>
-import _ from "lodash";
 import EventBus from "@/events/EventBus";
 
 export default {

@@ -221,7 +221,7 @@ export default {
   },
 
   watch: {
-    filteredData(newVal, oldVal) {
+    filteredData(newVal) {
       this.populateMarker(newVal);
 
       EventBus.$emit("UPDATE_LIST", this.filteredData);
